@@ -1,5 +1,5 @@
 # BigGreenData
-
+```bash
 sensor-data-receiver/
 │
 ├── src/
@@ -23,3 +23,4 @@ sensor-data-receiver/
 │
 ├── pom.xml
 └── .gitignore
+```
