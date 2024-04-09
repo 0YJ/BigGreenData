@@ -96,9 +96,9 @@ Once the application is running and the MQTT broker is configured, ensure your R
 We welcome contributions! Please consider the following steps if you're interested in contributing:
 
 1. Fork the repository.
-2. Create a new branch for your feature (`git checkout -b feature/AmazingFeature`).
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`).
-4. Push to the branch (`git push origin feature/AmazingFeature`).
+2. Create a new branch for your feature (`git checkout -b feature/CoolFeature`).
+3. Commit your changes (`git commit -m 'add some cool commit'`).
+4. Push to the branch (`git push origin feature/CoolFeature`).
 5. Open a Pull Request.
 
 ## 📬 Have Questions?
