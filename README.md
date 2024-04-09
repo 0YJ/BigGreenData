@@ -76,4 +76,4 @@ We welcome contributions! Please consider the following steps if you're interest
 
 ## 📬 Have Questions?
 
-For questions or support, please open an issue in the GitHub repository. We're here to help!
+For questions or support, please open a [ticket](https://github.com/0YJ/0YJ/issues/). We're here to help!
