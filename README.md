@@ -19,7 +19,7 @@ The Sensor Data Receiver is a robust Java Spring Boot application designed to co
 - An MQTT Broker (e.g., Mosquitto) running locally or remotely
 - Raspberry Pi with temperature and humidity sensors configured to send data
 
-## ♦ Structure
+## :eyes: Structure
 ```bash
 sensor-data-receiver/
 │
